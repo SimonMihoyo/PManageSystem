@@ -1,15 +1,18 @@
-# PManageSystem
+# Re..ProjectCookie
 
+## Introduction
+
+This is a project rebuild from PManageSystem.  
 A School Work. But I think it will be useful to others.
 
 ## Translations
 
-- [English](README.md)
+- [English](Readme.md)
 - [中文](./readme/README.zh.md)
 
 ## Build
 
-Open this project in Intellij IDEA or any other IDE.\
+Open this project in Intellij IDEA or any other IDE.
 Then build it.
 
 > Tip:\
@@ -22,7 +25,7 @@ Then build it.
 Just SIMPLY run it.:)
 
 > Note:\
-> Program will request you to provide your database root (or any 
+> Program will request you to provide your database root (or any
 other users with access to create tables and insert data
 to the database) username and password at first launch.\
 > Also, you should at the wizard create a new user with full access to
@@ -36,8 +39,6 @@ Some places you can customize is listed below:\
 
 ## Third Party Libraries
 
-1. [MySQL Connector/J version 8.2.0]()
-2. [JetBrains Java Annotations]()
+1. [MySQL Connector/J version 9.3.0(GPLv2)]()
+2. [JetBrains Java Annotations 20.0.0]()
 3. (under construction)
-
-
